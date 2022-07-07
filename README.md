@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### 1. create a `.env` file in root directory
 
 add this line: <br> `REACT_APP_API_KEY=<YouTube-Data-API-v3-KEY>` and replace `<YouTube-Data-API-v3-KEY>` with  your api key.
-> **_NOTE:_**  To generate an api key, go to [Google developer console](console.cloud.google.com) and find YouTube Data API v3.
+> **_NOTE:_**  To generate an api key, go to [Google developer console](https://console.cloud.google.com) and find YouTube Data API v3.
 
 ### 2. run ```npm install``` to install all dependencies
 
