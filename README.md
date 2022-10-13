@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Getting it to run
+## To run this app...
 
 ### 1. create a `.env` file in root directory
 
